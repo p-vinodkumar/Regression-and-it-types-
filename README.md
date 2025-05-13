@@ -93,5 +93,5 @@ The notebook covers:
  
 
 ### 🙌Acknowledgement
-Under guidance of  [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
+Under guidance of  [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu),[insjunaid]
 
