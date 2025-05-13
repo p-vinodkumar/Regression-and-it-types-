@@ -90,10 +90,7 @@ The notebook covers:
   - seaborn
   - scikit-learn
 
-### Built With ❤️ & 💻
-
-### Contributor  
-- 🛠️ Junaid Shariff 🚀  
+ 
 
 ### 🙌Acknowledgement
 Under guidance of  [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
